@@ -1,5 +1,5 @@
 # winterschool-gwas-tutorial
-Notebooks and reources for IPPAS winter school
+Notebooks and resources for IPPAS winter school
 
 A. Links to explore in GWAS presentation:
 [1] [gnomAD](https://gnomad.broadinstitute.org/variant/1-55039845-C-T)
@@ -8,7 +8,11 @@ A. Links to explore in GWAS presentation:
 
 B. Practical workshop:
 
-PART 1 - [GWAS tutorial notebook](to fill in)
+PART 1 - GWAS tutorial (run notebooks in order):
+  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gosborcz/winterschool-gwas-tutorial/blob/main/01_data_and_exploration.ipynb) Notebook 1 — Data loading & exploration
+  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gosborcz/winterschool-gwas-tutorial/blob/main/02_quality_control.ipynb) Notebook 2 — Quality control
+  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gosborcz/winterschool-gwas-tutorial/blob/main/03_gwas_association.ipynb) Notebook 3 — Association analysis & results
+
 PART 2:
   - with coding [burden tutorial](to fill in)
   - without coding [my favourite gene](to fill in)

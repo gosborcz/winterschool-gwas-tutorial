@@ -8,10 +8,9 @@ A. Links to explore in GWAS presentation:
 
 B. Practical workshop:
 
-PART 1 - GWAS tutorial (run notebooks in order):
-  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gosborcz/winterschool-gwas-tutorial/blob/main/01_data_and_exploration.ipynb) Notebook 1 — Data loading & exploration
-  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gosborcz/winterschool-gwas-tutorial/blob/main/02_quality_control.ipynb) Notebook 2 — Quality control
-  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gosborcz/winterschool-gwas-tutorial/blob/main/03_gwas_association.ipynb) Notebook 3 — Association analysis & results
+PART 1 - GWAS tutorial:
+  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gosborcz/winterschool-gwas-tutorial/blob/main/gwas_tutorial.ipynb) Complete tutorial notebook
+  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gosborcz/winterschool-gwas-tutorial/blob/main/gwas_tutorial_exercises.ipynb) Exercise version (fill in the blanks)
 
 PART 2:
   - with coding [burden tutorial](to fill in)

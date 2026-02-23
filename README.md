@@ -14,4 +14,4 @@ PART 1 - GWAS tutorial:
 
 PART 2:
   - with coding [burden tutorial](to fill in)
-  - without coding [my favourite gene](to fill in)
+  - without coding [my favourite gene](my-favourite-gene.md)

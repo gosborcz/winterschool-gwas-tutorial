@@ -13,5 +13,5 @@ PART 1 - GWAS tutorial:
   - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gosborcz/winterschool-gwas-tutorial/blob/main/gwas_tutorial_exercises.ipynb) Exercise version (fill in the blanks)
 
 PART 2:
-  - with coding [burden tutorial](to fill in)
+  - with coding (burden analysis)
   - without coding [my favourite gene](my-favourite-gene.md)
